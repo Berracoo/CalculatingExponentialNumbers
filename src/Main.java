@@ -18,6 +18,6 @@ public class Main {
             // result = Math.pow(numOne,i);
 
         }
-        System.out.println(result);
+        System.out.println("Final result is : " + result);
     }
 }
